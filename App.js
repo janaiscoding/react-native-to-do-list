@@ -38,7 +38,7 @@ export default function App() {
           padding: 20,
         }}
       >
-        <Text style={{ color: "#B4504F", fontSize: 30 }}>
+        <Text style={{ color:'#734A4D', fontSize: 30 }}>
           My React Native To do list
         </Text>
         {toDoList.map((item) => (
